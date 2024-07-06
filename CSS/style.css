@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+/* we got color now! */
+body {
+    background-color: cadetblue;
+}
+
+/* access div with id! */
+/* #the_name {
+    width: 80%;
+} */
+
+/* access div with class is better */
+.the_name {
+    width: 80%;
+    background-color: violet;
+}
